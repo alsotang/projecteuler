@@ -1,4 +1,4 @@
 projecteuler
 ============
 
-solve the problems of projecteuler in Ruby, Python or CoffeeScript
+solve the problems of [projecteuler.net](http://projecteuler.net/) in Ruby, Python or CoffeeScript
